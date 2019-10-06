@@ -10,4 +10,4 @@ This can help detect manipulation of information over controversial topics, and 
 
 Edits for the Wikipedia article on Taiwan
 
-![Example](https://github.com/clementbriens/wikifare/taiwan_wikipedia.png)
+![Example](https://github.com/clementbriens/wikifare/blob/master/taiwan_wikipedia.png)
